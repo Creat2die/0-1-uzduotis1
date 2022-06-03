@@ -76,6 +76,7 @@ main > div{
     padding: 50px;
     border-radius: 5%;
     position: relative;
+    filter: invert(100%);
 }
 
 .first-color{

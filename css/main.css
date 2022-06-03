@@ -91,6 +91,27 @@ main > div{
     background-color: magenta;
 }
 
+
+/* MANO KLAUSIMAS  Kaip padaryt skaičiukus, kad jie stikintu palei image. Nes ma nnesigavo tiksliai.
+.myimage{
+    position: relative;
+}
+
+.list{
+    position: absolute;
+    top: 0;
+    background-color: white;
+    border: solid 2px grey;
+    border-radius: 100px;
+    width: 20px;
+    padding: 5px;
+    margin: 0px;
+    transform: translateY(-50%);
+    transform: translateX(-50%);
+}
+*/
+
+
 @media(min-width:1300px){
     main{
         margin: 0;
